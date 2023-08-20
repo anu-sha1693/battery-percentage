@@ -5,5 +5,7 @@ In this project, we will create a simple web application that allows users to ch
 Technologies Used:
 
 HTML: For creating the structure of the web page.
+
 CSS: For styling the web page and making it visually appealing.
+
 JavaScript: For interacting with the user's device and retrieving battery information.
